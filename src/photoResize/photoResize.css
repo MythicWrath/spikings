@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+}
+
+.photoBox {
+    width: 256px;
+}
